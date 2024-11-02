@@ -23,7 +23,7 @@ with col2:
     st.markdown(f"<p style='font-size:15px; font-family:courier;background-color:#F0F8FF;padding:5px;'><b>{contest}",unsafe_allow_html=True)
     #st.info(contest)
 
-descrizione=("Qui sotto puoi trovare le app che ho creato in Python. Sentiti libero di contattarmi!")
+descrizione=("Qui sotto puoi trovare le app che ho creato con Python. Sentiti libero di contattarmi!")
 st.markdown(f"<p style='font-size:17px;font-family:georgia;'>{descrizione}", unsafe_allow_html=True)
 
 
