@@ -21,7 +21,7 @@ Subject: New email from {user_email}
 
 inviata da: {user_email}
 
-Topic: {opzioni}
+Topic: {opzioni}.
 
 {message}
 
